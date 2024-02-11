@@ -4,3 +4,4 @@ kubectl expose deployment nginx3 --port=80 --type=LoadBalancer
 export env REACT_NATIVE_PACKAGER_HOSTNAME=192.168.9.124
 set REACT_NATIVE_PACKAGER_HOSTNAME=192.168.9.124
 emulator -avd Pixel_4_API_29teste
+teste
